@@ -1,0 +1,29 @@
+empty: YES
+full: NO
+push 5: 5 
+empty: NO
+push 17: 5 17 
+empty: NO
+push -3: 5 17 -3 
+empty: NO
+push 0: 5 17 -3 0 
+empty: NO
+push 1: 5 17 -3 0 1 
+empty: NO
+push 2: 5 17 -3 0 1 2 
+empty: NO
+push 3: 5 17 -3 0 1 2 3 
+empty: NO
+push 4: 5 17 -3 0 1 2 3 4 
+empty: NO
+full: YES
+pop 4: 5 17 -3 0 1 2 3 
+pop 3: 5 17 -3 0 1 2 
+pop 2: 5 17 -3 0 1 
+pop 1: 5 17 -3 0 
+pop 0: 5 17 -3 
+pop -3: 5 17 
+pop 17: 5 
+pop 5: 
+empty: YES
+full: NO
