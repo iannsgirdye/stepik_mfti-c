@@ -2,7 +2,7 @@
 
 # stepik_mfti-c
 
-Репозиторий о курсе ["C для начинающих"](https://stepik.org/course/57680/syllabus) от [МФТИ](https://mipt.ru) на платформе [Stepik](https://stepik.org), на котором собраны: 
+Репозиторий о курсе "[C для начинающих](https://stepik.org/course/57680/syllabus)" от [МФТИ](https://mipt.ru) на платформе [Stepik](https://stepik.org), на котором собраны: 
 - [решения большинства задач](/programs/course/);
 - [личные тестовые файлы владельца репозитория](/programs/test/);
 - [полезные ресурсы из обсуждений](resources.md).
